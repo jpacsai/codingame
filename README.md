@@ -1,4 +1,4 @@
-# Codingame
+# Codingame 🎲
 My Codingame puzzle solutions (JavaScript)
 
 ## Classic
